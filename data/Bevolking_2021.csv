@@ -1,0 +1,353 @@
+﻿gemeente_naam;aantal
+Amsterdam;872757
+Rotterdam;651157
+'s-Gravenhage;545838
+Utrecht;357597
+Eindhoven;234394
+Groningen;232874
+Tilburg;219789
+Almere;211893
+Breda;184069
+Nijmegen;177659
+Apeldoorn;163818
+Haarlem;162902
+Arnhem;161348
+Enschede;159640
+Amersfoort;157276
+Zaanstad;156794
+Haarlemmermeer;156002
+'s-Hertogenbosch;155111
+Zwolle;128840
+Zoetermeer;125285
+Leiden;125099
+Leeuwarden;124084
+Maastricht;121575
+Dordrecht;119284
+Ede;117165
+Alphen aan den Rijn;111897
+Westland;110375
+Alkmaar;109436
+Emmen;107048
+Delft;103595
+Venlo;101802
+Deventer;100719
+Sittard-Geleen;92429
+Helmond;92423
+Oss;91915
+Amstelveen;91675
+Hilversum;90831
+Súdwest-Fryslân;89987
+Hoeksche Waard;87401
+Heerlen;87086
+Nissewaard;85219
+Purmerend;81249
+Meierijstad;81194
+Hengelo (O.);81140
+Schiedam;78730
+Lelystad;78598
+Roosendaal;77251
+Leidschendam-Voorburg;76534
+Gouda;73427
+Vlaardingen;73397
+Hoorn;73261
+Almelo;73107
+Velsen;68648
+Assen;68599
+Bergen op Zoom;67496
+Capelle aan den IJssel;67122
+Veenendaal;66493
+Katwijk;65753
+Stichtse Vecht;64931
+Zeist;64905
+Nieuwegein;63462
+Westerkwartier;63329
+Lansingerland;62384
+Hardenberg;60948
+Midden-Groningen;60797
+Barneveld;59082
+Roermond;58260
+Gooise Meren;58055
+Doetinchem;58001
+Heerhugowaard;57587
+Vijfheerenlanden;56811
+Krimpenerwaard;56319
+Den Helder;56296
+Smallingerland;56150
+Oosterhout;55982
+Altena;55967
+Hoogeveen;55699
+Pijnacker-Nootdorp;55308
+Rijswijk;54450
+Terneuzen;54426
+Kampen;54319
+Woerden;52299
+De Fryske Marren;51564
+West Betuwe;51128
+Heerenveen;50493
+Houten;50146
+Weert;50105
+Goeree-Overflakkee;50049
+Utrechtse Heuvelrug;49580
+Middelburg;48822
+Barendrecht;48714
+Waalwijk;48637
+Hollands Kroon;48432
+Harderwijk;48414
+Zutphen;47934
+Overbetuwe;47906
+Het Hogeland;47801
+Noordoostpolder;47291
+Soest;46606
+Lingewaard;46601
+Schagen;46483
+Ridderkerk;46189
+Waadhoeke;46090
+Kerkrade;45749
+Veldhoven;45466
+Noardeast-Fryslân;45228
+Medemblik;45101
+Zwijndrecht;44737
+Heusden;44692
+De Ronde Venen;44456
+Vlissingen;44360
+Steenwijkerland;44126
+Molenlanden;43909
+Zuidplas;43885
+Etten-Leur;43878
+Rheden;43761
+Zevenaar;43750
+Berkelland;43747
+Venray;43614
+Noordwijk;43508
+Peel en Maas;43425
+Nijkerk;43171
+De Bilt;43137
+Horst aan de Maas;42429
+Tiel;42159
+Uden;42119
+Beverwijk;41626
+Dronten;41555
+Huizen;41273
+Wijchen;41110
+Hellevoetsluis;40142
+Geldrop-Mierlo;39726
+Wageningen;39664
+Oude IJsselstreek;39388
+Heemskerk;39182
+Oldambt;38209
+Rijssen-Holten;38177
+Goes;38082
+Raalte;37712
+Landgraaf;37445
+Teylingen;37440
+Moerdijk;37129
+Gorinchem;37022
+Edam-Volendam;36197
+Bronckhorst;36055
+Montferland;36011
+Castricum;35986
+Beekdaelen;35938
+Hellendoorn;35916
+Leudal;35879
+Coevorden;35297
+Hof van Twente;35017
+Berg en Dal;34992
+Bodegraven-Reeuwijk;34872
+IJsselstein;34109
+Meppel;33920
+Tynaarlo;33887
+Schouwen-Duiveland;33839
+Twenterand;33743
+Lochem;33729
+Maassluis;33213
+Midden-Drenthe;33185
+Epe;33178
+Deurne;32471
+Papendrecht;32136
+Tytsjerksteradiel;32052
+Aalsmeer;31859
+Oldenzaal;31836
+Stadskanaal;31686
+Echt-Susteren;31610
+Renkum;31419
+Noordenveld;31253
+Bernheze;31240
+Hendrik-Ido-Ambacht;31202
+Valkenswaard;31193
+Boxtel;30801
+Diemen;30780
+Gemert-Bakel;30723
+Leusden;30401
+Halderberge;30284
+Best;29988
+Bergen (NH.);29839
+Opsterland;29733
+Oost Gelre;29627
+Krimpen aan den IJssel;29526
+Uithoorn;29478
+Boxmeer;29365
+Waddinxveen;29291
+Sint-Michielsgestel;29208
+Culemborg;28955
+Zaltbommel;28881
+Winterswijk;28854
+Nieuwkoop;28811
+Dalfsen;28587
+Langedijk;28163
+Nunspeet;27851
+Achtkarspelen;27843
+Brunssum;27821
+Hulst;27556
+Veendam;27384
+Kaag en Braassem;27297
+Drimmelen;27272
+Heemstede;27234
+Aalten;27121
+Leiderdorp;27056
+Ermelo;27008
+Buren;26749
+Vught;26558
+Dinkelland;26461
+Gilze en Rijen;26431
+Wassenaar;26305
+Oisterwijk;40620
+Dongen;26222
+Weststellingwerf;25914
+Beuningen;25890
+Eijsden-Margraten;25768
+Tholen;25757
+Westerwolde;25733
+Voorschoten;25596
+Albrandswaard;25590
+Borger-Odoorn;25559
+Ooststellingwerf;25469
+Aa en Hunze;25445
+Sliedrecht;25220
+Cuijk;25130
+Duiven;25126
+Maasdriel;25030
+Stein;25007
+Baarn;24868
+Oegstgeest;24840
+Voorst;24552
+Wierden;24446
+Steenbergen;24416
+Wijdemeren;24358
+Neder-Betuwe;24339
+De Wolden;24330
+Haaksbergen;24311
+Putten;24112
+Heiloo;23968
+Maasgouw;23965
+Wijk bij Duurstede;23914
+Goirle;23904
+Oldebroek;23646
+Bloemendaal;23571
+Loon op Zand;23408
+Nuenen Gerwen en Nederwetten;23383
+Borne;23312
+Sluis;23210
+Elburg;23161
+Lisse;22955
+Rucphen;22878
+Koggenland;22749
+Borsele;22739
+Reimerswaal;22730
+Zwartewaterland;22685
+Losser;22683
+Zeewolde;22653
+Laarbeek;22523
+Hillegom;22209
+Veere;21880
+Woensdrecht;21876
+Bunschoten;21866
+Zundert;21829
+Stede Broec;21726
+Geertruidenberg;21544
+Tubbergen;21275
+Cranendonck;21138
+Urk;21031
+Brummen;20726
+Roerdalen;20574
+Bladel;20390
+Alblasserdam;20165
+Rhenen;20119
+Weesp;19738
+Drechterland;19719
+Westerveld;19460
+Someren;19368
+Midden-Delfland;19341
+West Maas en Waal;19324
+Eersel;19313
+Druten;18926
+Dantumadiel;18922
+Meerssen;18828
+Oirschot;18714
+Bergeijk;18635
+Enkhuizen;18591
+Heerde;18589
+Hardinxveld-Giessendam;18295
+Olst-Wijhe;18252
+Ommen;18009
+Waalre;17456
+Waterland;17424
+Son en Breugel;17322
+Brielle;17271
+Staphorst;17145
+Zandvoort;17116
+Nederweert;17019
+Gennep;16921
+Asten;16721
+Heumen;16454
+Valkenburg aan de Geul;16367
+Wormerland;16270
+Heeze-Leende;16152
+Beek;15865
+Landerd;15730
+Harlingen;15722
+Hilvarenbeek;15518
+Bunnik;15191
+Westervoort;14971
+Westvoorne;14731
+Lopik;14467
+Gulpen-Wittem;14171
+Ouder-Amstel;14026
+Montfoort;13917
+Uitgeest;13666
+Texel;13575
+Beesel;13482
+Woudenberg;13362
+Reusel-De Mierden;13112
+Bergen (L.);13085
+Kapelle;12695
+Voerendaal;12475
+Grave;12436
+Hattem;12209
+Pekela;12196
+Opmeer;11836
+Sint Anthonis;11664
+Blaricum;11540
+Landsmeer;11491
+Laren;11280
+Doesburg;11077
+Mill en Sint Hubert;10939
+Boekel;10785
+Simpelveld;10555
+Oudewater;10230
+Alphen-Chaam;10203
+Vaals;10105
+Beemster;10022
+Scherpenzeel;9880
+Oostzaan;9735
+Eemnes;9247
+Zoeterwoude;8605
+Mook en Middelaar;7847
+Noord-Beveland;7392
+Baarle-Nassau;6859
+Renswoude;5444
+Terschelling;4888
+Ameland;3716
+Rozendaal;1704
+Vlieland;1155
+Schiermonnikoog;947
+Eemsdelta;45857
